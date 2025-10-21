@@ -1,5 +1,5 @@
 # godot-cpp template
-This repository serves as a quickstart template for GDExtension development with Godot 4.0+.
+This repository serves as a quickstart template for GDExtension development with Godot 4.5+.
 
 ## Contents
 * An empty Godot project (`demo/`)
